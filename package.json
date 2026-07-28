@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/marketing-icp-matcher-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Classifies an attached resource as a Marketing Ideal Customer Profile (ICP) document. Extracted from @cinatra-ai/marketing-icp-artifact (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Marketing ICP Matcher Skill",
+    "skillRole": "matcher",
+    "dependencies": []
+  }
+}
